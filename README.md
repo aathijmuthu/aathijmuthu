@@ -1,6 +1,6 @@
 👋 Hi there, I'm Aathi Muthu, an undergraduate student at UC San Diego.
 
-🔭 I’m interested in and am working on projects involving machine learning, data science, and data analytics.
+🔭 I’m interested in and am working on projects involving machine learning, data science, and software engineering.
 
 🌱 I’m looking for professional work through internships or interesting projects.
 
